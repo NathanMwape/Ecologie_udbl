@@ -25,13 +25,13 @@ const Community = () => {
                 <p className="text-gray-600 mb-4">
                   "Depuis que j'ai rejoint la communauté, j'ai appris tellement de nouvelles façons de réduire mon impact environnemental."
                 </p>
-                <p className="font-semibold">- Marie D.</p>
+                <p className="font-semibold">- Josue MULESHI.</p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow">
                 <p className="text-gray-600 mb-4">
                   "Les initiatives locales de nettoyage ont créé un véritable esprit d'équipe dans notre quartier."
                 </p>
-                <p className="font-semibold">- Pierre L.</p>
+                <p className="font-semibold">- Nathan MWAPE.</p>
               </div>
             </div>
           </div>
