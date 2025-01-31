@@ -68,7 +68,7 @@ const Contact = () => {
                   <h3 className="font-semibold">Adresse</h3>
                   <p className="text-gray-600">
                     123 Rue de l'Écologie<br />
-                    75001 Paris, France
+                    135, Lubumbashi - RDC
                   </p>
                 </div>
               </div>
@@ -76,7 +76,7 @@ const Contact = () => {
                 <Phone className="h-6 w-6 text-[#4CAF50] mt-1" />
                 <div className="ml-4">
                   <h3 className="font-semibold">Téléphone</h3>
-                  <p className="text-gray-600">+33 1 23 45 67 89</p>
+                  <p className="text-gray-600">+243 123 456 789</p>
                 </div>
               </div>
               <div className="flex items-start">

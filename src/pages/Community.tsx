@@ -3,7 +3,7 @@ import { Users, Heart, Share2 } from 'lucide-react';
 
 const Community = () => {
   return (
-    <section className="py-20 bg-white pt-16">
+    <section className="py-20 bg-white mt-15">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">
@@ -25,7 +25,7 @@ const Community = () => {
                 <p className="text-gray-600 mb-4">
                   "Depuis que j'ai rejoint la communauté, j'ai appris tellement de nouvelles façons de réduire mon impact environnemental."
                 </p>
-                <p className="font-semibold">- Josue MULESHI.</p>
+                <p className="font-semibold">- Josh MULESHI.</p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow">
                 <p className="text-gray-600 mb-4">
