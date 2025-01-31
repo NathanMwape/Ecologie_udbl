@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { Facebook, Twitter, Instagram, Mail } from 'lucide-react';
 
 const Footer = () => {
@@ -16,10 +17,10 @@ const Footer = () => {
           <div>
             <h4 className="text-xl font-bold mb-4">Liens rapides</h4>
             <ul className="space-y-2">
-              <li><a href="/" className="text-gray-400 hover:text-white">Accueil</a></li>
-              <li><a href="/pourquoi" className="text-gray-400 hover:text-white">Pourquoi</a></li>
-              <li><a href="/gestes" className="text-gray-400 hover:text-white">Bons Gestes</a></li>
-              <li><a href="/communaute" className="text-gray-400 hover:text-white">Communauté</a></li>
+              <li><Link to="/" className="text-gray-400 hover:text-white">Accueil</Link></li>
+              <li><Link to="/pourquoi" className="text-gray-400 hover:text-white">Pourquoi</Link></li>
+              <li><Link to="/gestes" className="text-gray-400 hover:text-white">Bons Gestes</Link></li>
+              <li><Link to="/communaute" className="text-gray-400 hover:text-white">Communauté</Link></li>
             </ul>
           </div>
           
