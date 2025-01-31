@@ -48,7 +48,7 @@ const Home = () => {
       </div>
 
       {/* Statistiques */}
-      <section className="py-16 bg-white">
+      {/* <section className="py-16 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-4 gap-8 text-center">
             <div>
@@ -69,7 +69,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Notre Impact */}
       <section className="py-20 bg-gray-50">

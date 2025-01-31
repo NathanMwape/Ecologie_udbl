@@ -67,8 +67,8 @@ const Contact = () => {
                 <div className="ml-4">
                   <h3 className="font-semibold">Adresse</h3>
                   <p className="text-gray-600">
-                    123 Rue de l'Écologie<br />
-                    135, Lubumbashi - RDC
+                    123 Avenue de l'Écologie<br />
+                    Lubumbashi - RDC
                   </p>
                 </div>
               </div>
@@ -83,7 +83,7 @@ const Contact = () => {
                 <Mail className="h-6 w-6 text-[#4CAF50] mt-1" />
                 <div className="ml-4">
                   <h3 className="font-semibold">Email</h3>
-                  <p className="text-gray-600">contact@ecologie-moi.fr</p>
+                  <p className="text-gray-600">contact@ecologie-moi.org</p>
                 </div>
               </div>
             </div>
